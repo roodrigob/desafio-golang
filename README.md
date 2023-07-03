@@ -1,2 +1,2 @@
 # desafio-golang
-desafio docker golang fullcycle 3.0
+link da image no docker hub: https://hub.docker.com/repository/docker/roodrigob/golang/general
